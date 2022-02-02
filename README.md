@@ -1,7 +1,13 @@
-### About Me
+### About Me 😃
 
-#### Projects
+#### Projects 📽
 
-> **Currently working on...**
-> - Dislands (not public)
-> - BrickBadges.ml
+##### Currently working on ✏
+
+- Dislands (not public)
+- BrickBadges.ml
+
+##### Previously worked on 🖼
+
+- Country Game
+- Google Emoji Kitchen Research

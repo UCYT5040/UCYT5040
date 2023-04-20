@@ -20,6 +20,7 @@ Hello! I'm Jeremiah Saunders, but I go by UCYT5040 online.
 - ...and more!
 
 **OTHER TECHNOLOGIES**
+
 I have varying levels of expierience in these technologies
 - PHP
 - Bash

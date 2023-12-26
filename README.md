@@ -24,6 +24,7 @@ I have varying levels of expierience in these technologies
 - PHP
 - Bash
 - Lua & Luau
-- BrainF\*\*k
+- C
+- C#
 
 I've also got some finsihed/WIP projects. Check my repostitories page to see these.

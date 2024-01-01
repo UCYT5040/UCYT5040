@@ -4,7 +4,7 @@ Hello! I'm Jeremiah Saunders.
 
 ## Expierence
 
-**🐍 Python:**
+**🐍 Python (since 2020):**
 - Bots for the chat service Discord
 - Flask webservers
 - Websocket & SocketIO
@@ -12,7 +12,7 @@ Hello! I'm Jeremiah Saunders.
 - IO Programs
 - Data Science
 
-**☕ JavaScript:**
+**☕ JavaScript (since 2022):**
 - HTML canvas games
 - WebGL games
 - Frontend websites (including HTML & CSS)

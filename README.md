@@ -1,30 +1,38 @@
 # My Portfolio 😀
 
-Hello! I'm Jeremiah Saunders, but I go by UCYT5040 online.
+Hello! I'm Jeremiah Saunders.
 
-## My Specialties
+## Expierence
 
-**🐍 Python:** Expert (5/5)
+**🐍 Python:**
 - Bots for the chat service Discord
 - Flask webservers
-- Websocket and other servers
-- ...and more!
+- Websocket & SocketIO
+- Misc. Networking
+- IO Programs
+- Data Science
 
-**☕ JavaScript:** Advanced (4/5)
+**☕ JavaScript:**
 - HTML canvas games
 - WebGL games
 - Frontend websites (including HTML & CSS)
 - Animations
 - Google Blockly computer programming
-- ...and more!
+- Node, NPM, & NPX
+- Express.js webservers
+- Websocket & SocketIO
+- Misc. Networking
+- IO Programs
 
-**🤖 OTHER TECHNOLOGIES**
-
-I have varying levels of expierience in these technologies
-- PHP
-- Bash
-- Lua & Luau
-- C
+**Other**
+These topics will be expanded on at a later date.
+- C/C++
 - C#
+- Java
+- PHP
+- Git
+- Docker
+- Jenkins
+- ... more
 
 I've also got some finsihed/WIP projects. Check my repostitories page to see these.

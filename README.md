@@ -2,7 +2,7 @@
 
 Hello! I'm Jeremiah Saunders.
 
-## Expierence
+## Experience
 
 **🐍 Python (since 2020):**
 - Bots for the chat service Discord

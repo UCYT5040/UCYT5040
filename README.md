@@ -2,6 +2,8 @@
 
 Hello! I'm Jeremiah Saunders.
 
+[Codewars Profile](https://www.codewars.com/users/UCYT5040) • [HackerOne Profile](https://hackerone.com/ucyt5040) ($2000 paid in bounties)
+
 ## Experience
 
 **🐍 Python (since 2020):**
